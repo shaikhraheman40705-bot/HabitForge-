@@ -1,8 +1,17 @@
 # HabitForge 🔥 - Gamified Habit Tracker
 
 **Live Demo:** https://habitforge-app-zeta.vercel.app
+
 **Backend API:** https://habitforge-backend-three.vercel.app
+
 **Test Login:** demo@habitforge.com / 123456
+
+## 👨‍💻 Author
+**[Shaikh Rahema n Shaikh Rahim]**
+
+Persevex Internship Candidate
+
+GitHub: [https://github.com/shaikhraheman40705-bot]
 
 ## What is this?
 HabitForge helps users build habits with game-like motivation. Daily check-in se XP milta hai aur Level badhta hai.
