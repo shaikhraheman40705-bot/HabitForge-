@@ -22,10 +22,10 @@ HabitForge helps users build habits with game-like motivation. Daily check-in se
 - Example: 100 XP = Level 4, 700 XP = Level 8
 
 ## Streak Logic
-- Duplicate dates ko remove karta hai
-- Dates ko sort karta hai (Set + Sort technique)
-- Agar lagatar 1 din ka gap hai to streak continue, nahi to reset to 1
-- Longest Streak alag se track hota hai
+Removes duplicate dates  
+Sorts the dates (Set + Sort technique)  
+If there's a gap of just 1 day, the streak continues, otherwise it resets to 1  
+Longest streak is tracked separately
 
 ## Tech Stack
 - Frontend: React, Vite, Tailwind CSS, Recharts
