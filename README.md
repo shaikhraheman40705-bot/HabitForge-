@@ -4,7 +4,7 @@
 
 **Backend API:** https://habitforge-backend-three.vercel.app
 
-**Test Login:** demo@habitforge.com / 123456
+
 
 ## 👨‍💻 Author
 **[Shaikh Rahema n Shaikh Rahim]**
