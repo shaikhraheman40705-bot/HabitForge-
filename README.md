@@ -11,7 +11,7 @@
 
 Persevex Internship Candidate
 
-GitHub: [https://github.com/shaikhraheman40705-bot]
+GitHub: [https://github.com/shaikhraheman40705-bot/HabitForge-]
 
 ## What is this?
 HabitForge helps users build habits with game-like motivation. Daily check-in se XP milta hai aur Level badhta hai.
